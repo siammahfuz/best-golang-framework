@@ -57,7 +57,7 @@ Ideal Use Cases
 Links to Official Docs
 
 📥 Getting Started
-To get started:git clone [https://github.com/yourusername/golang-frameworks-overview.git](https://github.com/siammahfuz/best-golang-framework)
+To get started:git clone [https://github.com/siammahfuz/golang-frameworks-overview.git](https://github.com/siammahfuz/best-golang-framework)
 cd golang-frameworks-overview
 Read through the /frameworks/ directory to explore the details of each framework.
 
